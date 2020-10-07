@@ -1,0 +1,28 @@
+# simple_eq_5532 BOM
+
+Wed 07 Oct 2020 05:36:12 PM EDT
+
+Generated from schematic by Eeschema 5.1.6-c6e7f7d~87~ubuntu20.04.1
+
+**Component Count:** 40
+
+| Value | Qty | Part | Description | Vendor |
+| ----- | --- | ---- | ----------- | ------ |
+| BASS1, TILT1, TREBLE1 | 3 | 10k |  |  |
+| BAX_IN1, BAX_OUT1, TILT_IN1, TILT_OUT1 | 4 | WQP-PJ301M-12_JACK |  |  |
+| C1, C2 | 2 | C-EU0805_CAP |  |  |
+| C3, C5 | 2 | 33nf |  |  |
+| C4, C6 | 2 | 22pf |  |  |
+| C7, C8, C11, C12 | 4 | 100n |  |  |
+| C9, C10 | 2 | 47u |  |  |
+| D1, D2 | 2 | DIODE-SOD123 |  |  |
+| F1, F2 | 2 | PTCSMD |  |  |
+| IC1, IC2 | 2 | NE5532 |  |  |
+| POWER1 | 1 | 10_PIN_HEADER |  |  |
+| R1, R2, R3, R4 | 4 | 10k |  |  |
+| R5, R7, R10 | 3 | R-EU_R0805 |  |  |
+| R6 | 1 | 22k |  |  |
+| R8, R11 | 2 | 2.2k |  |  |
+| R9, R12 | 2 | 6.8k |  |  |
+| R13, R14 | 2 | 220R |  |  |
+    

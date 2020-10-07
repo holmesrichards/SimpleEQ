@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Simple EQ/SimpleEQ/Hardware/KiCad/simple_eq_5532/simple_eq_5532.sch</source>
+    <date>Wed 07 Oct 2020 05:36:12 PM EDT</date>
+    <tool>Eeschema 5.1.6-c6e7f7d~87~ubuntu20.04.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>simple_eq_5532.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="IC1">
+      <value>NE5532</value>
+      <footprint>simple_eq_5532:SO08</footprint>
+      <libsource lib="simple_eq_5532-eagle-import" part="TL072D" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>E0A08599</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>10k</value>
+      <footprint>simple_eq_5532:R0805</footprint>
+      <libsource lib="simple_eq_5532-eagle-import" part="R-EU_R0805" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>B9BAFB95</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>10k</value>
+      <footprint>simple_eq_5532:R0805</footprint>
+      <libsource lib="simple_eq_5532-eagle-import" part="R-EU_R0805" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>26020ECB</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>R-EU_R0805</value>
+      <footprint>simple_eq_5532:R0805</footprint>
+      <libsource lib="simple_eq_5532-eagle-import" part="R-EU_R0805" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>BC5DC3D2</tstamp>
+    </comp>
+    <comp ref="R10">
+      <value>R-EU_R0805</value>
+      <footprint>simple_eq_5532:R0805</footprint>
+      <libsource lib="simple_eq_5532-eagle-import" part="R-EU_R0805" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>B13F576F</tstamp>
+    </comp>
+    <comp ref="BASS1">
+      <value>10k</value>
+      <footprint>simple_eq_5532:EVUF</footprint>
+      <libsource lib="simple_eq_5532-eagle-import" part="ALPHA-9MMA" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>610D4BFF</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>C-EU0805_CAP</value>
+      <footprint>simple_eq_5532:R0805</footprint>
+      <libsource lib="simple_eq_5532-eagle-import" part="C-EU0805_CAP" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>3BB99FBE</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>22k</value>
+      <footprint>simple_eq_5532:R0805</footprint>
+      <libsource lib="simple_eq_5532-eagle-import" part="R-EU_R0805" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>A71CB003</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>C-EU0805_CAP</value>
+      <footprint>simple_eq_5532:R0805</footprint>
+      <libsource lib="simple_eq_5532-eagle-import" part="C-EU0805_CAP" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>733CA19D</tstamp>
+    </comp>
+    <comp ref="TREBLE1">
+      <value>10k</value>
+      <footprint>simple_eq_5532:EVUF</footprint>
+      <libsource lib="simple_eq_5532-eagle-import" part="ALPHA-9MMA" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>319F8C96</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>R-EU_R0805</value>
+      <footprint>simple_eq_5532:R0805</footprint>
+      <libsource lib="simple_eq_5532-eagle-import" part="R-EU_R0805" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>D7380F0A</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>22pf</value>
+      <footprint>simple_eq_5532:R0805</footprint>
+      <libsource lib="simple_eq_5532-eagle-import" part="C-EU0805_CAP" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>F2B0B39F</tstamp>
+    </comp>
+    <comp ref="BAX_IN1">
+      <value>WQP-PJ301M-12_JACK</value>
+      <footprint>simple_eq_5532:WQP-PJ301M-12_JACK</footprint>
+      <libsource lib="simple_eq_5532-eagle-import" part="WQP-PJ301M-12_JACK" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E42BF8F</tstamp>
+    </comp>
+    <comp ref="R13">
+      <value>220R</value>
+      <footprint>simple_eq_5532:R0805</footprint>
+      <libsource lib="simple_eq_5532-eagle-import" part="R-EU_R0805" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>7D418CD4</tstamp>
+    </comp>
+    <comp ref="BAX_OUT1">
+      <value>WQP-PJ301M-12_JACK</value>
+      <footprint>simple_eq_5532:WQP-PJ301M-12_JACK</footprint>
+      <libsource lib="simple_eq_5532-eagle-import" part="WQP-PJ301M-12_JACK" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>7478F2E6</tstamp>
+    </comp>
+    <comp ref="IC2">
+      <value>NE5532</value>
+      <footprint>simple_eq_5532:SO08</footprint>
+      <libsource lib="simple_eq_5532-eagle-import" part="TL072D" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>B24ED064</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>10k</value>
+      <footprint>simple_eq_5532:R0805</footprint>
+      <libsource lib="simple_eq_5532-eagle-import" part="R-EU_R0805" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>81BCC900</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>10k</value>
+      <footprint>simple_eq_5532:R0805</footprint>
+      <libsource lib="simple_eq_5532-eagle-import" part="R-EU_R0805" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>98DC0D12</tstamp>
+    </comp>
+    <comp ref="R8">
+      <value>2.2k</value>
+      <footprint>simple_eq_5532:R0805</footprint>
+      <libsource lib="simple_eq_5532-eagle-import" part="R-EU_R0805" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>9EF7630A</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>33nf</value>
+      <footprint>simple_eq_5532:R0805</footprint>
+      <libsource lib="simple_eq_5532-eagle-import" part="C-EU0805_CAP" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62093543</tstamp>
+    </comp>
+    <comp ref="TILT1">
+      <value>10k</value>
+      <footprint>simple_eq_5532:EVUF</footprint>
+      <libsource lib="simple_eq_5532-eagle-import" part="ALPHA-9MMA" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>93523504</tstamp>
+    </comp>
+    <comp ref="R9">
+      <value>6.8k</value>
+      <footprint>simple_eq_5532:R0805</footprint>
+      <libsource lib="simple_eq_5532-eagle-import" part="R-EU_R0805" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>F5CC52A3</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>33nf</value>
+      <footprint>simple_eq_5532:R0805</footprint>
+      <libsource lib="simple_eq_5532-eagle-import" part="C-EU0805_CAP" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>91FFAC5C</tstamp>
+    </comp>
+    <comp ref="R11">
+      <value>2.2k</value>
+      <footprint>simple_eq_5532:R0805</footprint>
+      <libsource lib="simple_eq_5532-eagle-import" part="R-EU_R0805" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>63032C54</tstamp>
+    </comp>
+    <comp ref="R12">
+      <value>6.8k</value>
+      <footprint>simple_eq_5532:R0805</footprint>
+      <libsource lib="simple_eq_5532-eagle-import" part="R-EU_R0805" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>A6A337C8</tstamp>
+    </comp>
+    <comp ref="C6">
+      <value>22pf</value>
+      <footprint>simple_eq_5532:R0805</footprint>
+      <libsource lib="simple_eq_5532-eagle-import" part="C-EU0805_CAP" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>249ADD94</tstamp>
+    </comp>
+    <comp ref="TILT_IN1">
+      <value>WQP-PJ301M-12_JACK</value>
+      <footprint>simple_eq_5532:WQP-PJ301M-12_JACK</footprint>
+      <libsource lib="simple_eq_5532-eagle-import" part="WQP-PJ301M-12_JACK" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>FB6D4FF6</tstamp>
+    </comp>
+    <comp ref="R14">
+      <value>220R</value>
+      <footprint>simple_eq_5532:R0805</footprint>
+      <libsource lib="simple_eq_5532-eagle-import" part="R-EU_R0805" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>860EC294</tstamp>
+    </comp>
+    <comp ref="TILT_OUT1">
+      <value>WQP-PJ301M-12_JACK</value>
+      <footprint>simple_eq_5532:WQP-PJ301M-12_JACK</footprint>
+      <libsource lib="simple_eq_5532-eagle-import" part="WQP-PJ301M-12_JACK" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>9030587C</tstamp>
+    </comp>
+    <comp ref="POWER1">
+      <value>10_PIN_HEADER</value>
+      <footprint>simple_eq_5532:MA05-2</footprint>
+      <libsource lib="simple_eq_5532-eagle-import" part="10_PIN_HEADER" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>825D369A</tstamp>
+    </comp>
+    <comp ref="C7">
+      <value>100n</value>
+      <footprint>simple_eq_5532:R0805</footprint>
+      <libsource lib="simple_eq_5532-eagle-import" part="C-EU0805_CAP" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>B9E0DE35</tstamp>
+    </comp>
+    <comp ref="C8">
+      <value>100n</value>
+      <footprint>simple_eq_5532:R0805</footprint>
+      <libsource lib="simple_eq_5532-eagle-import" part="C-EU0805_CAP" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>621C301E</tstamp>
+    </comp>
+    <comp ref="C9">
+      <value>47u</value>
+      <footprint>simple_eq_5532:PANASONIC_D</footprint>
+      <libsource lib="simple_eq_5532-eagle-import" part="CPOL-USD" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>9647B926</tstamp>
+    </comp>
+    <comp ref="C10">
+      <value>47u</value>
+      <footprint>simple_eq_5532:PANASONIC_D</footprint>
+      <libsource lib="simple_eq_5532-eagle-import" part="CPOL-USD" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>0E343C29</tstamp>
+    </comp>
+    <comp ref="C11">
+      <value>100n</value>
+      <footprint>simple_eq_5532:R0805</footprint>
+      <libsource lib="simple_eq_5532-eagle-import" part="C-EU0805_CAP" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>59663956</tstamp>
+    </comp>
+    <comp ref="C12">
+      <value>100n</value>
+      <footprint>simple_eq_5532:R0805</footprint>
+      <libsource lib="simple_eq_5532-eagle-import" part="C-EU0805_CAP" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5225900B</tstamp>
+    </comp>
+    <comp ref="F1">
+      <value>PTCSMD</value>
+      <footprint>simple_eq_5532:PTC-1206</footprint>
+      <libsource lib="simple_eq_5532-eagle-import" part="PTCSMD" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>CDD216A9</tstamp>
+    </comp>
+    <comp ref="F2">
+      <value>PTCSMD</value>
+      <footprint>simple_eq_5532:PTC-1206</footprint>
+      <libsource lib="simple_eq_5532-eagle-import" part="PTCSMD" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>3F277CF6</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>DIODE-SOD123</value>
+      <footprint>simple_eq_5532:SOD123</footprint>
+      <libsource lib="simple_eq_5532-eagle-import" part="DIODE-SOD123" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>8D141E84</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>DIODE-SOD123</value>
+      <footprint>simple_eq_5532:SOD123</footprint>
+      <libsource lib="simple_eq_5532-eagle-import" part="DIODE-SOD123" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>20478EC3</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="simple_eq_5532-eagle-import" part="10_PIN_HEADER">
+      <fields>
+        <field name="Reference">SV</field>
+        <field name="Value">10_PIN_HEADER</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+        <pin num="7" name="7" type="passive"/>
+        <pin num="8" name="8" type="passive"/>
+        <pin num="9" name="9" type="passive"/>
+        <pin num="10" name="10" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="simple_eq_5532-eagle-import" part="ALPHA-9MMA">
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">ALPHA-9MMA</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="E" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="simple_eq_5532-eagle-import" part="C-EU0805_CAP">
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C-EU0805_CAP</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="simple_eq_5532-eagle-import" part="CPOL-USD">
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CPOL-USD</field>
+      </fields>
+      <pins>
+        <pin num="+" name="+" type="passive"/>
+        <pin num="-" name="-" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="simple_eq_5532-eagle-import" part="DIODE-SOD123">
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">DIODE-SOD123</field>
+      </fields>
+      <pins>
+        <pin num="A" name="A" type="passive"/>
+        <pin num="C" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="simple_eq_5532-eagle-import" part="PTCSMD">
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">PTCSMD</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="BiDi"/>
+        <pin num="2" name="2" type="BiDi"/>
+      </pins>
+    </libpart>
+    <libpart lib="simple_eq_5532-eagle-import" part="R-EU_R0805">
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R-EU_R0805</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="simple_eq_5532-eagle-import" part="TL072D">
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">TL072D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="OUT" type="output"/>
+        <pin num="2" name="-IN" type="input"/>
+        <pin num="3" name="+IN" type="input"/>
+        <pin num="4" name="V-" type="power_in"/>
+        <pin num="5" name="+IN" type="input"/>
+        <pin num="6" name="-IN" type="input"/>
+        <pin num="7" name="OUT" type="output"/>
+        <pin num="8" name="V+" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="simple_eq_5532-eagle-import" part="WQP-PJ301M-12_JACK">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">WQP-PJ301M-12_JACK</field>
+      </fields>
+      <pins>
+        <pin num="P$1" name="2" type="passive"/>
+        <pin num="P$2" name="3" type="passive"/>
+        <pin num="P$3" name="1" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="simple_eq_5532-eagle-import">
+      <uri>/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/Music Thing/Simple EQ/SimpleEQ/Hardware/KiCad/simple_eq_5532/simple_eq_5532-eagle-import.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(C2-Pad2)">
+      <node ref="C2" pin="2"/>
+      <node ref="R7" pin="2"/>
+    </net>
+    <net code="2" name="Net-(C2-Pad1)">
+      <node ref="TREBLE1" pin="2"/>
+      <node ref="C2" pin="1"/>
+    </net>
+    <net code="3" name="Net-(IC1-Pad1)">
+      <node ref="R5" pin="1"/>
+      <node ref="IC1" pin="1"/>
+      <node ref="R3" pin="1"/>
+      <node ref="TREBLE1" pin="3"/>
+    </net>
+    <net code="4" name="Net-(BASS1-Pad2)">
+      <node ref="BASS1" pin="2"/>
+      <node ref="R6" pin="1"/>
+    </net>
+    <net code="5" name="Net-(BASS1-Pad1)">
+      <node ref="C1" pin="2"/>
+      <node ref="BASS1" pin="1"/>
+      <node ref="R10" pin="2"/>
+    </net>
+    <net code="6" name="Net-(C4-Pad1)">
+      <node ref="TREBLE1" pin="1"/>
+      <node ref="IC1" pin="7"/>
+      <node ref="C4" pin="1"/>
+      <node ref="R13" pin="2"/>
+      <node ref="R10" pin="1"/>
+    </net>
+    <net code="7" name="Net-(BAX_OUT1-PadP$2)">
+      <node ref="BAX_OUT1" pin="P$2"/>
+    </net>
+    <net code="8" name="Net-(BAX_OUT1-PadP$1)">
+      <node ref="BAX_OUT1" pin="P$1"/>
+      <node ref="R13" pin="1"/>
+    </net>
+    <net code="9" name="Net-(BAX_IN1-PadP$2)">
+      <node ref="BAX_IN1" pin="P$2"/>
+    </net>
+    <net code="10" name="/-12V">
+      <node ref="C8" pin="1"/>
+      <node ref="C12" pin="1"/>
+      <node ref="D1" pin="A"/>
+      <node ref="F2" pin="1"/>
+      <node ref="IC1" pin="4"/>
+      <node ref="IC2" pin="4"/>
+      <node ref="C10" pin="-"/>
+    </net>
+    <net code="11" name="/+12V">
+      <node ref="F1" pin="1"/>
+      <node ref="C11" pin="2"/>
+      <node ref="IC1" pin="8"/>
+      <node ref="IC2" pin="8"/>
+      <node ref="C9" pin="+"/>
+      <node ref="C7" pin="2"/>
+      <node ref="D2" pin="C"/>
+    </net>
+    <net code="12" name="Net-(BAX_IN1-PadP$1)">
+      <node ref="BAX_IN1" pin="P$1"/>
+      <node ref="R1" pin="2"/>
+    </net>
+    <net code="13" name="GND">
+      <node ref="BAX_OUT1" pin="P$3"/>
+      <node ref="BAX_IN1" pin="P$3"/>
+      <node ref="POWER1" pin="3"/>
+      <node ref="IC1" pin="5"/>
+      <node ref="IC1" pin="3"/>
+      <node ref="C11" pin="1"/>
+      <node ref="C12" pin="2"/>
+      <node ref="IC2" pin="3"/>
+      <node ref="D1" pin="C"/>
+      <node ref="D2" pin="A"/>
+      <node ref="POWER1" pin="4"/>
+      <node ref="C9" pin="-"/>
+      <node ref="POWER1" pin="6"/>
+      <node ref="POWER1" pin="7"/>
+      <node ref="POWER1" pin="8"/>
+      <node ref="C7" pin="1"/>
+      <node ref="C8" pin="2"/>
+      <node ref="POWER1" pin="5"/>
+      <node ref="TILT_IN1" pin="P$3"/>
+      <node ref="TILT_OUT1" pin="P$3"/>
+      <node ref="C10" pin="+"/>
+      <node ref="IC2" pin="5"/>
+    </net>
+    <net code="14" name="Net-(IC1-Pad2)">
+      <node ref="R3" pin="2"/>
+      <node ref="IC1" pin="2"/>
+      <node ref="R1" pin="1"/>
+    </net>
+    <net code="15" name="Net-(F2-Pad2)">
+      <node ref="POWER1" pin="2"/>
+      <node ref="F2" pin="2"/>
+      <node ref="POWER1" pin="1"/>
+    </net>
+    <net code="16" name="Net-(F1-Pad2)">
+      <node ref="F1" pin="2"/>
+      <node ref="POWER1" pin="9"/>
+      <node ref="POWER1" pin="10"/>
+    </net>
+    <net code="17" name="Net-(IC2-Pad1)">
+      <node ref="R8" pin="1"/>
+      <node ref="R4" pin="1"/>
+      <node ref="R9" pin="1"/>
+      <node ref="IC2" pin="1"/>
+    </net>
+    <net code="18" name="Net-(C6-Pad1)">
+      <node ref="IC2" pin="6"/>
+      <node ref="TILT1" pin="2"/>
+      <node ref="C6" pin="1"/>
+    </net>
+    <net code="19" name="Net-(C3-Pad1)">
+      <node ref="C3" pin="1"/>
+      <node ref="R8" pin="2"/>
+    </net>
+    <net code="20" name="Net-(TILT_OUT1-PadP$2)">
+      <node ref="TILT_OUT1" pin="P$2"/>
+    </net>
+    <net code="21" name="Net-(R14-Pad1)">
+      <node ref="TILT_OUT1" pin="P$1"/>
+      <node ref="R14" pin="1"/>
+    </net>
+    <net code="22" name="Net-(TILT_IN1-PadP$2)">
+      <node ref="TILT_IN1" pin="P$2"/>
+    </net>
+    <net code="23" name="Net-(R2-Pad1)">
+      <node ref="TILT_IN1" pin="P$1"/>
+      <node ref="R2" pin="1"/>
+    </net>
+    <net code="24" name="Net-(C5-Pad1)">
+      <node ref="R11" pin="2"/>
+      <node ref="C5" pin="1"/>
+    </net>
+    <net code="25" name="Net-(C6-Pad2)">
+      <node ref="IC2" pin="7"/>
+      <node ref="C6" pin="2"/>
+      <node ref="R14" pin="2"/>
+      <node ref="R12" pin="1"/>
+      <node ref="R11" pin="1"/>
+    </net>
+    <net code="26" name="Net-(C5-Pad2)">
+      <node ref="R9" pin="2"/>
+      <node ref="C5" pin="2"/>
+      <node ref="TILT1" pin="1"/>
+    </net>
+    <net code="27" name="Net-(BASS1-Pad3)">
+      <node ref="C1" pin="1"/>
+      <node ref="R5" pin="2"/>
+      <node ref="BASS1" pin="3"/>
+    </net>
+    <net code="28" name="Net-(C3-Pad2)">
+      <node ref="R12" pin="2"/>
+      <node ref="C3" pin="2"/>
+      <node ref="TILT1" pin="3"/>
+    </net>
+    <net code="29" name="Net-(C4-Pad2)">
+      <node ref="IC1" pin="6"/>
+      <node ref="R7" pin="1"/>
+      <node ref="C4" pin="2"/>
+      <node ref="R6" pin="2"/>
+    </net>
+    <net code="30" name="Net-(IC2-Pad2)">
+      <node ref="R2" pin="2"/>
+      <node ref="R4" pin="2"/>
+      <node ref="IC2" pin="2"/>
+    </net>
+  </nets>
+</export>
